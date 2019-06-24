@@ -1,0 +1,123 @@
+body {
+    background: #fff;
+    margin: auto;
+    
+}
+
+#main-section {
+    background: #EAEAEB;
+    padding: 1em;   
+}
+
+.introMsg {
+    margin
+}
+
+/*
+
+#main-section p {
+    color: blue;
+    text-align: center;
+    
+}
+
+.image1 img {
+    width: 50%;
+    height: 50%;
+    margin: 22px;
+    
+}
+
+.image1 p {
+    color: white;
+    clear: both;
+    text-align: left;
+    margin-right: 8px;
+    
+}
+
+
+.image2 img {
+    width: 50%;
+    height: 50%;
+     margin: 22px;
+    
+}
+
+
+
+.image2 p {
+    color: white;
+    clear: both;
+    text-align: left;
+    margin-right: 6px;
+    
+}
+
+.image3 {
+    margin: 22px;
+    width: 100%;
+}
+*/
+
+
+.container {
+    margin: 0 100px;
+}
+
+.parent {
+    display: grid;
+    grid-gap: 25px;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    margin-top: 30px;
+}
+
+.accomodations {
+    border: 1px solid red;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.accomodations a {
+    text-decoration: none;
+    
+}
+
+.butt {
+    margin-bottom: 10%;
+    
+}
+
+.img1 {
+    background-image: url(../image3/images-8.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+
+.img2{
+    background-image: url(../image3/kwy2BLDCfM01_400x400.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+
+.img3{
+    background-image: url(../image3/ZMmxwo2OHt41_400x400.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+
+.imageHolder {
+    
+}
+*/
+
+.subDetails p{
+    
+}
+
+
+
+
+
